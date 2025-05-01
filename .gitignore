@@ -1,6 +1,2 @@
 node_modules/
 .DS_Store
-
-client/src
-client/public
-server/uploads
