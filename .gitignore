@@ -1,2 +1,9 @@
 node_modules/
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+client/public
+server/uploads
+>>>>>>> 12efa1a82d8d42b38fe11a56fe45ad6bfef53195
